@@ -22,7 +22,6 @@ This project builds and deploys a machine learning model that predicts whether a
 
 ## 🗂️ Dataset
 
-- Source: [`sklearn.datasets.load_breast_cancer`](https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-dataset)
 - 569 samples
 - 30 numeric features per sample
 - Target classes: `Malignant` (1), `Benign` (0)
