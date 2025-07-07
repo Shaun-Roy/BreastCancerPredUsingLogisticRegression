@@ -6,7 +6,7 @@ This project builds and deploys a machine learning model that predicts whether a
 
 ## 🚀 Demo
 
-![ DEMO ](Screenshot 2025-07-07 104416.png)
+![ DEMO ](https://github.com/Shaun-Roy/BreastCancerPredUsingLogisticRegression/blob/main/Screenshot%202025-07-07%20104416.png)
 
 ---
 
