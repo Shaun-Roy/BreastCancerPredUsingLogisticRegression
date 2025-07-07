@@ -6,7 +6,7 @@ This project builds and deploys a machine learning model that predicts whether a
 
 ## 🚀 Demo
 
-![ DEMO ](https://github.com/Shaun-Roy/PREFIX-BASED-AUTOCOMPLETE/blob/main/screenshots%20for%20readme/Screenshot%202025-04-23%20141327.png)
+![ DEMO ](Screenshot 2025-07-07 104416.png)
 
 ---
 
